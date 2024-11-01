@@ -65,10 +65,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: Ov23lidFfBj0rJHAutS4
-  clientSecret: dddaf6b53e14adad4a1d4ee89b149555fa5496f2
-  repo: lone1624.github.io
-  owner: lone1624
+  clientID: Ov23liTcaJ0xRfa5V1Lo
+  clientSecret: 329e30f40794ad6eb27f85494225627f6e05c9e3
+  repo: Lone1624.github.io
+  owner: Lone1624
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 

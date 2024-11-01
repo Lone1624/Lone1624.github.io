@@ -65,7 +65,7 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: Ov23li1oBAYFZPT0V75y
+  clientID: Ov23lidFfBj0rJHAutS4
   clientSecret: 9939207cefed3404b43cc8f7bacc01c35101f914
   repo: Lone1624.github.io
   owner: Lone1624
